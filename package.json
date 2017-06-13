@@ -1,0 +1,25 @@
+{
+  "name": "VideoPlayer",
+  "version": "1.0.0",
+  "description": "Cordova video player",
+  "cordova": {
+    "id": "VideoPlayer",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buzzcard/VideoPlayer"
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "video player",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Cory Thompson",
+  "license": "MIT"
+}
