@@ -1,5 +1,5 @@
 {
-  "name": "VideoPlayer",
+  "name": "cordova-plugin-video-player",
   "version": "1.0.0",
   "description": "Cordova video player",
   "cordova": {
