@@ -25,7 +25,7 @@
             </feature>
         </config-file>
 		
-		<config-file target="AndroidManifest.xml" parent="/*">
+		<config-file target="app/src/main/AndroidManifest.xml" parent="/*">
             <uses-permission android:name="android.permission.INTERNET" />
         </config-file>
         <source-file src="src/android/VideoPlayer.java" target-dir="src/com/dawsonloudon/videoplayer" />
